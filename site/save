@@ -1,0 +1,6 @@
+ if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        // Configurações do banco de dados
+        $servername = "localhost";
+        $username = "root";
+        $password = "";
+        $dbname = "seu_banco_de_dados";

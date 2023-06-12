@@ -1,0 +1,49 @@
+#log{
+    background-color: rgba(240, 248, 255, 0);
+    color: aliceblue;
+    border: none;
+}
+body{
+    background-image: url(ferramentas-profissionais-de-dentista-no-consultorio-odontologico.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100%;
+    height: 100%;
+    width: auto;
+}
+#conteudo{
+    background-color: rgba(139, 127, 150, 0.551);
+    
+    height: 100%;
+    width: auto;
+}
+#cad{
+    
+    width: 40%;
+    height: 100%;
+    background-color: rgba(130, 159, 216, 0.612);
+}
+#tituloreg{
+    color: aliceblue;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+
+#cadbk{
+    background-image: url(equipamento-e-instrumentos-dentarios-no-consultorio-do-dentista-ferramentas-de-close-up.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    height: 100%;
+    text-align: center;
+}
+    .table-row {
+        margin-bottom: 10px;
+    }
+
+    .table-row td {
+        padding: 5px;
+    }
+   
+
